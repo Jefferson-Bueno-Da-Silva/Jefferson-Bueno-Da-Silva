@@ -2,9 +2,9 @@
 
 🇧🇷 Natural de Ribeirão Preto - SP, Brazil
 
-:rocket: Estagiario
+:rocket: Pleno
 
-:office: MGSP GROUP
+:office: Flink
 
 :books: Estudante na Universidade paulista Unip
 
