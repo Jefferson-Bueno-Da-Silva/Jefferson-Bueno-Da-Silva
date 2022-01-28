@@ -6,7 +6,7 @@
 
 :office: Flink
 
-:books: Estudante na Universidade paulista Unip
+:books: Formado na Universidade paulista Unip
 
 :notebook: Analise e Desenvolvimento de sistemas
 
