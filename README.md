@@ -10,12 +10,9 @@
 
 :notebook: Analise e Desenvolvimento de sistemas
 
-:computer: Node, TypeScript, JavaScript
-
-:iphone: React-native
+:computer: Node, TypeScript, JavaScript, kotlin, Android
 
 :pager: HTML, CSS, JS - ES6
-
 
 ### Minha jornada no GitHub:
 
