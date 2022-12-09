@@ -2,9 +2,9 @@
 
 🇧🇷 Natural de Ribeirão Preto - SP, Brazil
 
-:rocket: Pleno
+:rocket: Sênior
 
-:office: Flink
+:office: Pixter
 
 :books: Formado na Universidade paulista Unip
 
