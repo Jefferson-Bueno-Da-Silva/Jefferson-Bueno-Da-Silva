@@ -10,7 +10,7 @@
 
 :notebook: Analise e Desenvolvimento de sistemas
 
-:computer: Node, TypeScript, JavaScript, kotlin, Android
+:computer: Node, TypeScript, JavaScript, kotlin, Android, Flutter
 
 :pager: HTML, CSS, JS - ES6
 
