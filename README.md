@@ -2,9 +2,9 @@
 
 🇧🇷 Natural de Ribeirão Preto - SP, Brazil
 
-:rocket: Sênior
+:rocket: Tec-Lead
 
-:office: Pixter
+:office: Mutant (team Vivo)
 
 :books: Formado na Universidade paulista Unip
 
