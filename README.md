@@ -2,7 +2,7 @@
 
 🇧🇷 Natural de Ribeirão Preto - SP, Brazil
 
-:rocket: Tec-Lead
+:rocket: Tech lead
 
 :office: Mutant (team Vivo)
 
